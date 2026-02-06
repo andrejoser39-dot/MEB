@@ -1,23 +1,44 @@
+.h1 {
+  color: rgb(0, 0, 255);
+  text-shadow: black 1px 1px 2px;
+  text-align: center;
+  background-color: lightgreen;
+}
+
 .cocina {
   background-color: rgb(255, 0, 0);
-  padding: 10px;
+  padding: 50px;
+  text-decoration: solid;
+  text-shadow: aliceblue 1px 1px 2px;
+  text-align: center;
+  font-size: 50px;
 }
 
 .cocina-item--new {
-  color: aliceblue;
+  color: rgb(0, 134, 251);
   font-weight: bold;
+  margin: 50px;
+
 }
 
 .dormitorio {
   background-color: cornflowerblue;
-  padding: 10px;
+  padding: 20px;
+  text-align: center;
+  font-size: 35px;
 }
 
 .dormitorio-item--big {
-  font-size: 20px;
+  font-size: 10px;
 }
 
 .sala {
   background-color: lightblue;
-  padding: 20px;
+  padding: 10px;
+  text-align: center;
+  font-size: 50px;
+}
+
+.sala-item--small {
+  background-origin: padding-box;
 }
