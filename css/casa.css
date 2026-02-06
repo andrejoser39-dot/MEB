@@ -1,0 +1,23 @@
+.cocina {
+  background-color: rgb(255, 0, 0);
+  padding: 10px;
+}
+
+.cocina-item--new {
+  color: aliceblue;
+  font-weight: bold;
+}
+
+.dormitorio {
+  background-color: cornflowerblue;
+  padding: 10px;
+}
+
+.dormitorio-item--big {
+  font-size: 20px;
+}
+
+.sala {
+  background-color: lightblue;
+  padding: 20px;
+}
